@@ -13,8 +13,8 @@ import os
 import sys
 
 LINE = (
-    "Cloudy in Wobbleford this morning, 14°C, with drizzle by lunch — "
-    "but the clouds promise to part just long enough for your coffee break."
+    "Cloudy in Wobbleford this morning, 14°C, drizzle by lunch — "
+    "but the sun has pencilled in ten minutes just for your coffee break."
 )
 
 MAX_CHARS = 140
